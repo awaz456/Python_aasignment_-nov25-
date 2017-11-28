@@ -1,5 +1,0 @@
-Stack overflow 
-Git
-Github
-IDE(PYCHARM)
-Deployment(hookv)
